@@ -1,0 +1,3 @@
+/home/megachin502/Desktop/c++/Chapter 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/megachin502/Desktop/c++/Chapter 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/megachin502/Desktop/c++/Chapter 5/cmake-build-debug/CMakeFiles/Chapter_5.dir

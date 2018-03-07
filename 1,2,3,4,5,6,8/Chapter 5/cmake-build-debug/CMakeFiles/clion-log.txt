@@ -1,0 +1,4 @@
+/home/megachin502/Downloads/clion-2016.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/megachin502/Desktop/c++/Chapter 5"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/megachin502/Desktop/c++/Chapter 5/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Chapter_6.dir/PracticePro_1.cpp.o  -o Chapter_6 
